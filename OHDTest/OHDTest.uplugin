@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 13,
+	"VersionName": "1.0",
+	"FriendlyName": "OHDTest",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
